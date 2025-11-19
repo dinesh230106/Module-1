@@ -30,12 +30,7 @@ print(f"The minimum of {num1}, {num2}, {num3} is {min_num}")
 ```
 
 ## OUTPUT
-```
-Enter first number: 12
-Enter second number: 7
-Enter third number: 15
-The minimum of 12, 7, 15 is 7
+<img width="1159" height="414" alt="image" src="https://github.com/user-attachments/assets/71df7e29-c422-405b-8c1d-5c23874d05ce" />
 
-```
 ## RESULT
 Thus, the Python program to find the minimum between three integer numbers using a conditional expression was implemented and executed successfully.
