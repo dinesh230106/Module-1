@@ -15,21 +15,11 @@ To write a Python program for adding two complex numbers, and get the user input
 ```python
 # Reg.No:212223060057
 # Name:DINESH KUMAR A
-# Write your code here
-
-# Getting two complex numbers from user
-num1 = eval(input("Enter first complex number: "))
-num2 = eval(input("Enter second complex number: "))
-
-# Displaying the entered numbers
-print("First complex number:", num1)
-print("Second complex number:", num2)
-
-# Adding the complex numbers
-sum = num1 + num2
-
-# Displaying the result
-print("The sum of the two complex numbers is:", sum)
+a=eval(input())
+b=eval(input())
+print("A is",a)
+print("B is",b)
+print("Sum is",a+b)
 
 
 ```
