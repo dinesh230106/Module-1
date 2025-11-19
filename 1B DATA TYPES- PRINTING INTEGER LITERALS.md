@@ -25,12 +25,8 @@ print(num3)
 
 ```
 ## OUTPUT
-```
-123
-456
-789
+<img width="1136" height="164" alt="image" src="https://github.com/user-attachments/assets/53856bc9-0e92-4593-8457-374c2d0e6a41" />
 
-```
 
 ## RESULT
 Thus, the Python program to print integer literals 123, 456, and 789 was executed successfully.
