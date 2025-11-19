@@ -27,17 +27,8 @@ else:
 ```
 
 ## OUTPUT
-```
-Enter a character: e
-The given character is a vowel
+<img width="965" height="243" alt="image" src="https://github.com/user-attachments/assets/e6c1868c-0934-4d8a-a767-b2018f1851c5" />
 
-```
-or
-```
-Enter a character: k
-The given character is NOT a vowel
-
-```
 
 ## RESULT
 Thus, the Python program to check whether the given character is a vowel or not using an if..else statement was implemented and executed successfully.
